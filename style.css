@@ -199,11 +199,7 @@
       margin: 10%;
       font-family: 'Rochester', cursive;
   }
-  .frasco{
-    width: 20%;
-    margin-left: 37%;
-    
-  }
+  
    
   }
   
@@ -244,7 +240,7 @@
     font-weight: 1200;
     border: none;
     color: rgb(64, 63, 63);
-    background-color: rgba(228, 210, 226, 0.964);
+    background-color: #D8ADB3;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(228, 207, 248);
     cursor: pointer;

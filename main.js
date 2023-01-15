@@ -13,7 +13,7 @@
           icon: 'success',
           html:
             'INGRESA, ' +
-            ' <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.118518232535!2d-58.18001708504291!3d-34.878370079588436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2d9d29e49ffb7%3A0x7ecfa09b9e4db53b!2sC.%20613%201247%2C%20B1893DGS%20El%20Pato%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1669299184648!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+            '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.632311427157!2d-58.581754499999995!3d-34.562863899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb98dc99f76cd%3A0x128b07649978c3c5!2sN%20%26%20A%20Celebraciones!5e0!3m2!1ses-419!2sar!4v1673815967877!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> ' +
             'and other HTML tags',
             
             
