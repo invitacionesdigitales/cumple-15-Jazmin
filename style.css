@@ -18,26 +18,11 @@
     border-radius: 1px;
     font-family: 'Rochester', cursive;
   }
-  .pareja{
-    width: 20%;
-    margin-top: -22%;
-    margin-left: 10%;
-  }
-  .hoja2{
-
-   height: 10%;
-   margin-top: -40%;
-  }
-  
-  .hoja3{
-    width: 7%;
-    margin-left: 20%;
-    rotate: 70deg;
-    margin-top: -20px;
-  }
+ 
   
   .primer_span {
     color: #D8ADB3;
+    font-size: 110%;
   }
   
   .container {
@@ -209,27 +194,28 @@
   
   /*SECCION*/
   .info{
-    margin-top: 20%;
+    margin-top: 10%;
     
   }
   .info h4 {
     text-align: center;
-    color: #484848;
-    font-size: 28px;
-    font-family:'Amatic SC', cursive; 
+    color: #6a6a6a;
+    font-size: 25px;
+    font-family: 'Rochester', cursive;
     
   }
   .info p{
     text-align: center;
     color: #686868;
-    font-size: 16px;
-    padding: 15%;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    font-family: 'Tahoma', sans-serif;
+    
   }
   
   .info img{
     width: 18%;
     margin-left: 40%;
+ 
   
   }
   
@@ -273,17 +259,12 @@
       font-size: 25px;
       font-family: 'Rochester', cursive;
     }
-  .flores{
-    width: 120px;
+  .confeti{
+    width: 100%;
+    margin-left: 25%;
+    margin-top: -27%;
   }
-  .sitio {
-    text-decoration: none;
-    color: #787676;
-  }
-  .span_2 {
-    text-decoration: none;
-    color: #a2e0fa;
-  }
+  
   }
   
   @media (min-width: 1024px){ 
@@ -309,17 +290,4 @@
       font-size: 30px;
       font-family: 'Sacramento', cursive;
   }
-  
-   }
-   .hoja_5 {
-    width: 9%;
-    margin-right: 70%;
-    rotate: 45deg;
   }
-  .hoja6 {
-    width: 9%;
-    margin-right: 40%;
-    rotate: 20deg;
-    margin-left: 75%;
-  }
-  
