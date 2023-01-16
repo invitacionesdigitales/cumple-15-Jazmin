@@ -194,14 +194,14 @@
   
   /*SECCION*/
   .info{
-    margin-top: 5%;
+    margin-top: 10%;
     
   }
   .info h4 {
     text-align: center;
     color: #6a6a6a;
     font-size: 25px;
-    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-family: 'Rochester', cursive;
     
   }
   .info p{
@@ -261,7 +261,11 @@
       font-size: 25px;
       font-family: 'Rochester', cursive;
     }
- 
+  .confeti{
+    width: 100%;
+    margin-left: 25%;
+    margin-top: -27%;
+  }
   
   }
   
