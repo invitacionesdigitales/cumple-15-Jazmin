@@ -14,7 +14,7 @@
     margin: 50px 0px;
   
     color: rgb(131, 130, 130);
-    font-size: 22px;
+    font-size: 23px;
     border-radius: 1px;
     font-family: 'Rochester', cursive;
   }
@@ -194,14 +194,14 @@
   
   /*SECCION*/
   .info{
-    margin-top: 10%;
+    margin-top: 5%;
     
   }
   .info h4 {
     text-align: center;
     color: #6a6a6a;
     font-size: 25px;
-    font-family: 'Rochester', cursive;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
     
   }
   .info p{
@@ -213,10 +213,12 @@
   }
   
   .info img{
-    width: 18%;
+    width: 15%;
     margin-left: 40%;
- 
   
+  }
+  .parrafo{
+    margin: 15px;
   }
   
   .click {
@@ -259,11 +261,7 @@
       font-size: 25px;
       font-family: 'Rochester', cursive;
     }
-  .confeti{
-    width: 100%;
-    margin-left: 25%;
-    margin-top: -27%;
-  }
+ 
   
   }
   
